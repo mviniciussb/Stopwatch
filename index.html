@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Temporizador estilo pomodoro">
+    <link rel="stylesheet" href="styles/style.css">
+    <link rel="shortcut icon" href="assets/ph_pause-circle.svg" type="image/x-svg">
+    <script src="scripts/main.js" type="module" defer></script>
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <title>Focus Timer | Pomodoro</title>
+</head>
+
+<body>
+
+    <button class="darkMode">
+        <i class="ph-bold ph-sun"></i>
+        <i class="ph-bold ph-moon"></i>
+        <span class="sr-only">Ativar light mode</span>
+    </button>
+
+    <main>
+
+        <div id="timer" class="flex">
+            <span class="minutes">00</span>
+            <span class="separation-time">:</span>
+            <span class="seconds">00</span>
+        </div>
+
+
+        <div class="controlsPlay flex">
+            <button data-action="toggleRunning" class="ph ph-play-circle secondary-color">
+                <span class="sr-only">Iniciar contador</span>
+            </button>
+
+            <button data-action="toggleRunning" class="ph ph-pause-circle secondary-color">
+                <span class="sr-only">Pausar contador</span>
+            </button>
+
+            <button data-action="set" class="ph ph-timer">
+                <span class="sr-only">Ajustar contador</span>
+            </button>
+
+            <button data-action="reset" class="ph ph-stop-circle">
+                <span class="sr-only">Reiniciar contador</span>
+            </button>
+
+            <button data-action="toggleMusic" class="ph ph-speaker-none">
+                <span class="sr-only">Iniciar música</span>
+            </button>
+
+            <button data-action="toggleMusic" class="ph ph-speaker-high secondary-color">
+                <span class="sr-only">Parar música</span>
+            </button>
+        </div>
+
+    </main>
+</body>
+
+</html>
