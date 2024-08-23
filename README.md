@@ -1,4 +1,4 @@
-<h1>counter</h1>
+<h1>Stopwatch</h1>
 <br>
 <p>Aplicação construida com HTML, CSS e JS como fim de fazer uma contagem regressiva.
 Ao clicar nos minutos o usuário consegue editar quanto tempo ele deseja que o contador inicie. O botão de auto-falante ativa e desativa um som de fundo.
