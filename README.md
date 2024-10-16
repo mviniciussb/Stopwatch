@@ -1,19 +1,32 @@
-<h1>Stopwatch</h1>
+Stopwatch - Gerencie seu tempo com praticidade e personalização
+Este cronômetro foi desenvolvido para ajudar a gerenciar e monitorar períodos de tempo com precisão. Ideal para sessões de estudo, pausas rápidas ou qualquer outra atividade que exija controle preciso de tempo, o aplicativo oferece uma experiência intuitiva e personalizável.
 
-Este cronômetro foi desenvolvido para ajudar a gerenciar e monitorar períodos de tempo com precisão. Utilizando HTML, CSS e JavaScript, o aplicativo permite ao usuário configurar e acompanhar o tempo de forma simples e eficaz.
+Funcionalidades
+Configuração de Tempo: O usuário pode selecionar o tempo desejado e iniciar a contagem. Um alarme sonoro avisa quando o tempo chega a zero.
 
-<h2>Funcionalidades</h2>
+Áudio Relaxante Opcional: Oferece a opção de adicionar sons relaxantes para criar um ambiente mais tranquilo. Os sons podem ser ativados ou desativados conforme a preferência.
 
- - Configuração de Tempo: O usuário pode selecionar o tempo desejado para o cronômetro e iniciar a contagem. O cronômetro avisa quando o tempo chega a zero com um alarme sonoro.
+Modo Escuro e Claro: Inclui um alternador entre modo escuro e claro, proporcionando conforto visual em diferentes condições de iluminação.
 
- - Áudio Relaxante Opcional: Oferece a opção de adicionar um áudio relaxante ao cronômetro, se desejado, para criar um ambiente mais agradável. Os sons podem ser ativados ou desativados conforme a preferência do usuário.
-
- - Modo Escuro e Claro: O cronômetro inclui uma opção para alternar entre o modo escuro e o claro, proporcionando uma visualização confortável em diferentes condições de iluminação.
 Problemas Resolvidos
+Este cronômetro proporciona uma solução prática para quem precisa gerenciar o tempo de forma eficiente e personalizada. Com a opção de adicionar sons relaxantes e alternar entre modos de visualização, ele melhora a experiência do usuário ao proporcionar mais conforto e foco.
 
-Este cronômetro visa proporcionar uma solução prática e eficiente para quem precisa gerenciar o tempo de forma precisa. Seja para pausas rápidas, sessões de estudo ou outras atividades, o cronômetro oferece uma experiência personalizável com a opção de adicionar um toque relaxante através de sons e escolha entre modos de visualização, melhorando a eficácia e o conforto durante o uso.
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+Como Usar
+Clone este repositório:
+git clone https://github.com/mviniciussb/Stopwatch.git
 
-![image](https://github.com/user-attachments/assets/3586f4e6-8748-4bb8-9a85-56f0996ec5bb)
+Abra o arquivo index.html no seu navegador.
+
+Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões ou encontrar problemas, fique à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT.
 
 
-ACESSE AQUI: [https://mviniciussb.github.io/Stopwatch/]
+
+[ACESSE AQUI](https://mviniciussb.github.io/Stopwatch/)
