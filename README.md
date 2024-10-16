@@ -26,9 +26,4 @@ Este cronômetro proporciona uma solução prática para quem precisa gerenciar 
    ```bash
    git clone https://github.com/mviniciussb/Stopwatch.git
 
-
-
-
-
-
 [Stopwatch](https://mviniciussb.github.io/Stopwatch/)
