@@ -31,4 +31,4 @@ Este cronômetro proporciona uma solução prática para quem precisa gerenciar 
 
 
 
-[ACESSE AQUI](https://mviniciussb.github.io/Stopwatch/)
+[Stopwatch](https://mviniciussb.github.io/Stopwatch/)
