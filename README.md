@@ -13,7 +13,7 @@ Problemas Resolvidos
 
 Este cronômetro visa proporcionar uma solução prática e eficiente para quem precisa gerenciar o tempo de forma precisa. Seja para pausas rápidas, sessões de estudo ou outras atividades, o cronômetro oferece uma experiência personalizável com a opção de adicionar um toque relaxante através de sons e escolha entre modos de visualização, melhorando a eficácia e o conforto durante o uso.
 
-![image](https://github.com/mviniciussb/Focus-Timer/assets/108037526/eb1d62e4-738c-45e8-bbb7-a7a023ab193c)
-![image](https://github.com/mviniciussb/Focus-Timer/assets/108037526/8bbf3e31-b60b-4e86-84dc-d14c238fbd5e)
+![image](https://github.com/user-attachments/assets/3586f4e6-8748-4bb8-9a85-56f0996ec5bb)
+
 
 ACESSE AQUI: [https://mviniciussb.github.io/Stopwatch/]
